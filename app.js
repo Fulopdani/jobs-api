@@ -58,4 +58,3 @@ const start = async () => {
 };
 
 start();
-// 9:26:00, billinget kell hozzaadni mert nem enged a heroku maskepp
