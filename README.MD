@@ -1,5 +1,7 @@
 #### https://jobs-api-66fcd747e051.herokuapp.com/
 
+#### Based on the freeCodeCamp Node.js / Express course
+
 #### Database Connection
 
 1. Import connect.js
